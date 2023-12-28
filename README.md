@@ -1,4 +1,4 @@
-# SALES-Dashboard--PowerBI-
+# SALES-Dashboard-KEYINSIGHT-PowerBI-
 This dashboard helps sales managers to identify the opportunities to make changes and increase revenue. This dashboard allows you to quickly identify who your best customers are, where your challenges lie, and what changes might be needed to drive sales. It can also help with forecasting future revenue.
 
 SKILLSET USED TO MAKE THIS DASHBOARD:
